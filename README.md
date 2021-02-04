@@ -9,5 +9,3 @@ Project use:
   <li>CSS</li>
   <li>HTML</li>
 </ul>
-
-MySql, PHP, JS, AJAX, HTML, CSS
