@@ -6,6 +6,7 @@ Project use:
   <li>PHP</li>
   <li>JS</li>
   <li>AJAX</li>
+  <li>JQUERY</li>
   <li>CSS</li>
   <li>HTML</li>
 </ul>
