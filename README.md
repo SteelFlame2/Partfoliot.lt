@@ -1,3 +1,13 @@
 # Partfoliot.lt
 Website shows list of projects<br/>
-Project use: MySql, PHP, JS, AJAX, HTML, CSS
+Project use: 
+<ul>
+  <li>MySql</li>
+  <li>PHP</li>
+  <li>JS</li>
+  <li>AJAX</li>
+  <li>CSS</li>
+  <li>HTML</li>
+</ul>
+
+MySql, PHP, JS, AJAX, HTML, CSS
